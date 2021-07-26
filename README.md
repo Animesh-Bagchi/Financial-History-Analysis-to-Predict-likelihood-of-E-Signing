@@ -57,3 +57,12 @@ This files consists of various classification algorithms used to train model usi
 
 
 This file contains optimizing the best model found using all possible hyperparameters and find the parameters generating a low bias and low variance model considering the Precision, Recall, F1 Score and Accuracy of the algorithm using GridSearchCV
+
+
+
+
+**Conclusion and Business Advantage:**
+
+Our model had given an accuracy of 64% and using this we can predict whether or not a user will e-sign the loan applicaition in app. Targeted customers who are not likely to sign the model will be provided with customized onboarding facilities. 
+
+This screening process will help the business to reduce the amount of people not signing the loan application. Increase in loan application will increase the profits drastically.
